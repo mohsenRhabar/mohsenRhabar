@@ -13,31 +13,20 @@
 ---
 
 <div align="center">
-  <img align="right" width="250" src="https://www.icegif.com/wp-content/uploads/2024/08/roronoa-zoro-icegif-1.gif" alt="Zoro GIF" />
+  <img align="right" width="220" src="https://www.icegif.com/wp-content/uploads/2024/08/roronoa-zoro-icegif-1.gif" alt="Zoro GIF" />
 
   <div align="left">
     <h3>🧠 Transitioning into Artificial Intelligence</h3>
     <ul>
-      <li>🌱 Deep-diving into <b>Machine Learning Algorithms, Mathematics & Computer Vision</b></li>
-      <li>🐍 Building strong core skills with <b>Python, PyTorch / TensorFlow & Data Science Stack</b></li>
-      <li>⚙️ Leveraging Software Engineering background to build end-to-end AI pipelines</li>
-      <li>🐧 <b>Arch Linux</b> power user & terminal lover</li>
+      <li>🌱 Deep-diving into <b>Machine Learning, Mathematics & Computer Vision</b></li>
+      <li>🐍 Building ML pipelines with <b>Python, PyTorch & OpenCV</b></li>
+      <li>⚡ Fun fact I lover of Arch linux 🐧 + Anime + Code 👨‍💻</li>
       <li>📫 Reach me at: <a href="mailto:MohsenRahbar@yandex.com"><b>MohsenRahbar@yandex.com</b></a></li>
     </ul>
   </div>
 </div>
 
 <br clear="both"/>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MohsenRahbar&theme=dracula&no-frame=false&no-bg=true&margin-w=15" alt="MohsenRahbar Trophies" />
-  </a>
-</p>
 
 ---
 
@@ -54,32 +43,22 @@
 </p>
 
 <p align="left">
-  <b>Software Engineering & Backend:</b><br/>
+  <b>Software Engineering & Tools:</b><br/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>DevOps, Environment & Tools:</b><br/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Analytics & Metrics
+### 📊 Analytics & Activity (No-Vercel Stable Cards)
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohsenRahbar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="165" alt="stats card" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MohsenRahbar&layout=compact&theme=dracula&card_width=320&langs_count=6" height="165" alt="languages card" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MohsenRahbar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="165" alt="stats card" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MohsenRahbar&layout=compact&theme=dracula&card_width=320&langs_count=6" height="165" alt="languages card" />
 </p>
 
 ---
@@ -94,10 +73,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
-</p>
 
 <p align="center">
   <a href="https://twitter.com/mohsenrahbar_">
